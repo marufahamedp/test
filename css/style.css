@@ -1,0 +1,37 @@
+input{
+    display: block;
+    width: 500px;
+    height: 30px;
+}
+.box{
+    margin-bottom: 10px;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 8px 30px;
+    border: 3px solid transparent;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: transparent;
+    color: black;
+    border: 3px solid black;
+}
+.bithe-btn{
+    margin-top: 50px;
+    padding: 8px 30px;
+    background-color: black;
+    color: white;
+    border: 3px solid transparent;
+    cursor: pointer;
+}
+.bithe-btn:hover{
+    background-color: transparent;
+    color: black;
+    border: 3px solid black;
+}
